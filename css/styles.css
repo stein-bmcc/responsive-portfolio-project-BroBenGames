@@ -15,7 +15,6 @@
 html {
     font-size: 1em;
 }
-
 body {
     font-family: sans-serif;
     font-weight: 400;
@@ -140,6 +139,7 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
     YOUR STYLES
     Add your styles below.
     ========================== */
+
     .grid-container {
         display: grid;
         grid-template-columns: repeat(3 ,1fr);
