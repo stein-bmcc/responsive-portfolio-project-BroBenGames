@@ -149,7 +149,7 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
       .projects {
         display: grid;
         grid-template-columns: repeat(5 ,1fr);
-        grip-gap: 20px;
+        grid-gap: 20px;
         }
       .intro {
         grid-column: spam 5;
