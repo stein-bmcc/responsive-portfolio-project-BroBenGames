@@ -152,7 +152,7 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
         grid-gap: 20px;
         }
       .intro {
-        grid-column: spam 5;
+        grid-column: span 5;
         grid-column: 2/5;
         grid-column: 1/-1;
       }
